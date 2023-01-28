@@ -214,5 +214,5 @@ asset的下载url需要自己进行拼接:
 
 则该asset的下载url为:`http://resources.download.minecraft.net(可以替换为其他api)/bd/bdf48ef6b5d0d23bbb02e17d04865216179f510a`
 
-每个asset的保存路径都应该在游戏目录下的`assets`文件夹下的`objects`文件夹,仍然拿`icons/icon_16x16.png`距离,若游戏目录在`D:\.minecraft`,则该asset的保存路径应在`D:\.minecraft\assets\objects\bd\bdf48ef6b5d0d23bbb02e17d04865216179f510a`
+每个asset的保存路径都应该在游戏目录下的`assets`文件夹下的`objects`文件夹,仍然拿`icons/icon_16x16.png`举例,若游戏目录在`D:\.minecraft`,则该asset的保存路径应在`D:\.minecraft\assets\objects\bd\bdf48ef6b5d0d23bbb02e17d04865216179f510a`
 
